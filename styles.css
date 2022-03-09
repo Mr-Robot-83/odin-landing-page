@@ -137,6 +137,7 @@ button:hover {
   border-radius: 4px;
 }
 
+
 .buttons {
   margin-top: 30px;
 }
@@ -182,6 +183,11 @@ button:hover {
   text-align: center;
 }
 
+.gallery-card-image:hover {
+  background-color: #f1fa8c;
+}
+
+
 /* quote styles */
 
 .quote-panel-wrapper {
@@ -220,7 +226,7 @@ button:hover {
 .signup-panel-wrapper {
   display: flex;
   justify-content: center;
-  background-color: #f8f8f2;
+  background-color: #44475a;
 }
 
 .signup-panel {
@@ -237,7 +243,7 @@ button:hover {
 .signup-box {
   flex: 1;
   display: flex;
-  padding: 24px;
+  padding: 24px 32px;
   border-radius: 8px;
   background-color: #8be9fd;
   flex-wrap: wrap;
