@@ -64,7 +64,6 @@ button {
 
 button:hover {
   background-color: #f1fa8c;
-  transition: 0.5s;
 }
 
 
@@ -188,7 +187,6 @@ button:hover {
 
 .gallery-card-image:hover {
   background-color: #7f8296;
-  transition: 0.5s;
 }
 
 
